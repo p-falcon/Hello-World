@@ -2,6 +2,3 @@ fprintf('hello');
 
 
 hello
-
-
-goodbye
