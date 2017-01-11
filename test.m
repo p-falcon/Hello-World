@@ -2,3 +2,4 @@ fprintf('hello');
 
 
 hello
+bye
